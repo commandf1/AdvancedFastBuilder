@@ -1,0 +1,6 @@
+name: AdvancedFastBuilder
+author: commandf1
+main: space.commandf1.fastbuilder.AdvancedFastBuilderPlugin
+version: ${project.parent.version}
+description: A fast bridge plugin for Minecraft
+api-version: 1.8.8
